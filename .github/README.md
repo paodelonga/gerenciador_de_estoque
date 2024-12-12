@@ -10,3 +10,5 @@ Objetivo deste desafio é criar uma API simples para gerenciar o estoque de um a
 - O atributo mandatorio e de identificação é o código numerico, que deve ser unico para cada produto
 - A atualização de um produto deve manter o seu código númerico intocavel
 - Você é responsável por identificar e implementar as validações em todas as operações
+- Esta aplicação deve ser RESTFul
+
